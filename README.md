@@ -7,4 +7,6 @@ Nela está inserida, uma estrutura operacional de um E-commerce. Inclusive, alé
 
 # Atualização 04/10/2025
 
-Projeto muito complexo para o meu nível, confesso que encontri bastante dificuldade, mas para não atrasar ainda mais o meu curso, deixarei deste modo, e farei mais refinamentos no futuro.
+Projeto muito complexo para o meu nível, confesso que encontrei bastante dificuldades, mas para não atrasar ainda mais o meu curso, deixarei deste modo, e farei mais refinamentos no futuro.
+
+OBS: Os arquivos estão em dentro da pasta já com os formatos (.mwb).
